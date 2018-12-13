@@ -1,0 +1,7 @@
+<apex:page controller = "MyFirstClass">
+    <apex:pageBlock>
+        <apex:pageBlockSection>
+        <h1> first VF page </h1>
+    </apex:pageBlockSection>
+    </apex:pageBlock>
+</apex:page
