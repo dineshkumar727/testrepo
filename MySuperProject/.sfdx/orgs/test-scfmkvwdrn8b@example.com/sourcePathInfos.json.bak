@@ -1,0 +1,114 @@
+[
+    [
+        "C:\\Users\\dineshkumar.r\\Desktop\\SFDX\\RestartProject\\config\\MySuperProject\\supperApp",
+        {
+            "sourcePath": "C:\\Users\\dineshkumar.r\\Desktop\\SFDX\\RestartProject\\config\\MySuperProject\\supperApp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544611035847,
+            "changeTime": 1544611035847,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\dineshkumar.r\\Desktop\\SFDX\\RestartProject\\config\\MySuperProject\\supperApp\\main",
+        {
+            "sourcePath": "C:\\Users\\dineshkumar.r\\Desktop\\SFDX\\RestartProject\\config\\MySuperProject\\supperApp\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544611035847,
+            "changeTime": 1544611035847,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dineshkumar.r\\Desktop\\SFDX\\RestartProject\\config\\MySuperProject\\supperApp\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\dineshkumar.r\\Desktop\\SFDX\\RestartProject\\config\\MySuperProject\\supperApp\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544612429400,
+            "changeTime": 1544612429400,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dineshkumar.r\\Desktop\\SFDX\\RestartProject\\config\\MySuperProject\\supperApp\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\dineshkumar.r\\Desktop\\SFDX\\RestartProject\\config\\MySuperProject\\supperApp\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544611035848,
+            "changeTime": 1544611035848,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dineshkumar.r\\Desktop\\SFDX\\RestartProject\\config\\MySuperProject",
+        {
+            "sourcePath": "C:\\Users\\dineshkumar.r\\Desktop\\SFDX\\RestartProject\\config\\MySuperProject",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544611165077,
+            "changeTime": 1544611165077,
+            "contentHash": "227412e239d77a12552a7141e086a24e8c89fa80",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\dineshkumar.r\\Desktop\\SFDX\\RestartProject\\config\\MySuperProject\\supperApp\\main\\default\\classes\\MyFirstClass.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\dineshkumar.r\\Desktop\\SFDX\\RestartProject\\config\\MySuperProject\\supperApp\\main\\default\\classes\\MyFirstClass.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1544612429400,
+            "changeTime": 1544612429400,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\dineshkumar.r\\Desktop\\SFDX\\RestartProject\\config\\MySuperProject\\supperApp\\main\\default\\classes\\MyFirstClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\dineshkumar.r\\Desktop\\SFDX\\RestartProject\\config\\MySuperProject\\supperApp\\main\\default\\classes\\MyFirstClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 117,
+            "modifiedTime": 1544612556869,
+            "changeTime": 1544612556869,
+            "contentHash": "3d332b7d72789fa01c03a9e85528e905ad2456e0"
+        }
+    ],
+    [
+        "C:\\Users\\dineshkumar.r\\Desktop\\SFDX\\RestartProject\\config\\MySuperProject\\supperApp\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\dineshkumar.r\\Desktop\\SFDX\\RestartProject\\config\\MySuperProject\\supperApp\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1544612429416,
+            "changeTime": 1544612429416,
+            "contentHash": "57512b7b0fdb9420c88ccad2e773f1785cb6c2c7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
